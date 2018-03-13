@@ -3,13 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lonepie.github.io/post/mintty-quake-console/</loc>
+    <loc>https://lonepie.github.io/post/mintty-quake-console-v1.7-released/</loc>
+    <lastmod>2018-03-11T01:44:37-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lonepie.github.io/project/mintty-quake-console/</loc>
     <lastmod>2018-02-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lonepie.github.io/</loc>
-    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-11T01:44:37-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -23,25 +28,37 @@
   </url>
   
   <url>
+    <loc>https://lonepie.github.io/tags/mintty-quake-console/</loc>
+    <lastmod>2018-03-11T01:44:37-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://lonepie.github.io/page/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lonepie.github.io/post/</loc>
-    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-11T01:44:37-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lonepie.github.io/tags/project/</loc>
+    <lastmod>2018-03-11T01:44:37-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lonepie.github.io/project/</loc>
     <lastmod>2018-02-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lonepie.github.io/tags/</loc>
-    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-11T01:44:37-05:00</lastmod>
     <priority>0</priority>
   </url>
   
