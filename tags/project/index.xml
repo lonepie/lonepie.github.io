@@ -31,7 +31,7 @@
       <guid>https://lonepie.github.io/project/mintty-quake-console/</guid>
       <description>About This AutoHotkey script creates a system-wide hotkey for accessing the mintty terminal as a dropdown console, as popularized by the PC game, Quake&amp;trade;.
 I started development on this back in 2011, originally forking it from marcharding&amp;rsquo;s 75-line implemention. It has since grown to 620+ lines (and counting!).
-Life events got in the way and I had to stop development on it for a number of years. However, with the release of Windows Subsystem for Linux and especially wsltty, I have resumed work on this project.</description>
+Life events got in the way and I had to stop development on it for a number of years. However, with the release of Windows Subsystem for Linux, and consquentially wsltty, I have resumed work on this project.</description>
     </item>
     
   </channel>
